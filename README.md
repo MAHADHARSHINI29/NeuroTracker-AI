@@ -188,8 +188,8 @@ Configure:
 Create `.env` file:
 
 ```env
-VITE_SUPABASE_URL=your_url
-VITE_SUPABASE_ANON_KEY=your_key
+VITE_SUPABASE_URL="VITE_SUPABASE_URL"
+VITE_SUPABASE_ANON_KEY="VITE_SUPABASE_ANON_KEY"
 ```
 
 ---
@@ -328,7 +328,7 @@ Government College of Engineering, Erode
 **🌐 Deployment**
 Live Application
 
-https://neuro-tracker-mpft.vercel.app/
+https://neuro-tracker-ai.vercel.app/
 
 ---
 
