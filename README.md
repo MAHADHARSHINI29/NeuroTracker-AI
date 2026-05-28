@@ -325,6 +325,13 @@ Government College of Engineering, Erode
 
 ---
 
+**🌐 Deployment**
+Live Application
+
+https://neuro-tracker-mpft.vercel.app/
+
+---
+
 ## ⭐ Conclusion
 
 NeuroTracker AI demonstrates how Artificial Intelligence and Full-Stack Development can be integrated to build intelligent healthcare support systems capable of improving headache monitoring, awareness, and early clinical guidance.
